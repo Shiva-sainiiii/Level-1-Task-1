@@ -12,7 +12,7 @@ This portfolio website highlights my achievements, certifications, and expertise
 *Features* 🎯
 
 - Responsive design for seamless user experience 📈
-- Showcase of [number]+ projects with descriptions and images 📚
+- Showcase of 5 projects with descriptions and images 📚
 - Detailed information about my skills, education, and experience 📝
 - Blog section for sharing knowledge and insights 📰
 - Contact form for easy communication 📲
