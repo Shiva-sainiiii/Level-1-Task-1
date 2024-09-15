@@ -26,7 +26,13 @@ height:100vh;
 }
 
 
+#cover{
 
+width:100vw;
+height:auto;
+position:relative}
+#lastt{
+position:absolute; width:100vw; height:10vh; bottom:0; background-color:#222;}
 
 #page1 nav {
  width:100vw;
