@@ -1,9 +1,3 @@
-## Installation
-1. Clone the repository:
-   ```bash
-   https://github.com/Shiva-sainiiii/Level-1-Task-1.git
-
-   
 *Portfolio Website* 📄
 
 
