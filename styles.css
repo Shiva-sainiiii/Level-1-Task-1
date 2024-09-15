@@ -3,6 +3,7 @@ margin:0;
 padding:0;
 box-sizing:border-box;
 }
+@media(min-width:1024px){
 body{
 width:100vw;
 font-family: "Ubuntu", sans-serif;
@@ -662,7 +663,7 @@ bottom:11vw;
     position:relative;
   background-image:url("c2.jpg");
   }
-  
+}
 
 @media (max-width: 768px) {
 
@@ -672,7 +673,10 @@ bottom:11vw;
 @media (max-width: 480px) {
 
 body{
-
+font-family: "Ubuntu", sans-serif;
+font-weight: 400;
+font-style: normal;
+color:white;
 background-color:#222;
 width:100vw;
 height:100%;}
@@ -1345,5 +1349,4 @@ height:330vh;
 position:relative;
 
 }
-             }
- 
+}
