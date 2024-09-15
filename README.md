@@ -48,9 +48,10 @@ This project is licensed under the MIT License.
 
 *Contact* 📲
 
-[Your Name]
-[Your Email]
-[Your LinkedIn/Other Social Media]
+Shiva Saini,
+Shivasainiiii5.6666@gmail.com
+LinkedIn : shivasaini
+Instagram: shiva_sainiiii
 
 
 *Contributing* 🤝
