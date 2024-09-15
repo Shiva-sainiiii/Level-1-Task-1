@@ -23,7 +23,7 @@ This portfolio website highlights my achievements, certifications, and expertise
 - HTML5
 - CSS3
 - JavaScript
-- [Other technologies/frameworks used]
+- Gsap, Locomotive, Tailwind CSS.
 
 
 *Live Demo* 📺
