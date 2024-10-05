@@ -1,5 +1,6 @@
 *Portfolio Website* 📄
 
+![Game LayOut](video.mp4)
 
 A showcase of my skills, experience, and projects. 💼
 
